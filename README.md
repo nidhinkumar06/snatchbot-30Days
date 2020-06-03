@@ -12,3 +12,5 @@
 | Day  | Task | Status |
 | :-------------: | :------------- | :----------: |
 | Day 1  | Introduction to SnatchBot  | Done |
+| Day 2  | Address Collection Interaction  | Done |
+| Day 3  | SnatchBot Creating a Bot  | Done |
