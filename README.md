@@ -14,3 +14,4 @@
 | Day 1  | Introduction to SnatchBot  | Done |
 | Day 2  | Address Collection Interaction  | Done |
 | Day 3  | SnatchBot Creating a Bot  | Done |
+| Day 4  | SnatchBot Creating a Bot Statement | Done |
