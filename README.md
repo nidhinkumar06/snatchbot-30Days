@@ -15,3 +15,4 @@
 | Day 2  | Address Collection Interaction  | Done |
 | Day 3  | SnatchBot Creating a Bot  | Done |
 | Day 4  | SnatchBot Creating a Bot Statement | Done |
+| Day 5  | SnatchBot Adding Data to Google Sheet | Done |
