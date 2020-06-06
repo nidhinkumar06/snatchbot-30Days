@@ -16,3 +16,4 @@
 | Day 3  | SnatchBot Creating a Bot  | Done |
 | Day 4  | SnatchBot Creating a Bot Statement | Done |
 | Day 5  | SnatchBot Adding Data to Google Sheet | Done |
+| Day 6  | SnatchBot User Attributes | Done |
