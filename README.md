@@ -18,3 +18,4 @@
 | Day 5  | SnatchBot Adding Data to Google Sheet | Done |
 | Day 6  | SnatchBot User Attributes | Done |
 | Day 7  | SnatchBot User Attributes | Done |
+| Day 8  | SnatchBot User Attributes-Webhooks | Done |
