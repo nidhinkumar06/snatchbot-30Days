@@ -20,3 +20,4 @@
 | Day 7  | SnatchBot User Attributes | Done |
 | Day 8  | SnatchBot User Attributes-Webhooks | Done |
 | Day 9  | SnatchBot Logical Operations | Done |
+| Day 10  | SnatchBot Search Integration | Done |
