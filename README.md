@@ -21,3 +21,4 @@
 | Day 8  | SnatchBot User Attributes-Webhooks | Done |
 | Day 9  | SnatchBot Logical Operations | Done |
 | Day 10  | SnatchBot Search Integration | Done |
+| Day 11  | SnatchBot Multichannel sharing | Done |
